@@ -9,7 +9,7 @@ website:
     left: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
     right: |
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/usman-afzali/muslim-flourishing-nz)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://usman-afzali.github.io/muslim-diversity/)</span>
     background: "#d85e33"
   
   navbar:
