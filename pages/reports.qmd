@@ -1,0 +1,33 @@
+---
+title: "Infographics and Reports"
+listing:
+  id: intro-listings
+  image-align: right
+  contents: intro
+  sort: "title asc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+title-block-banner: true
+toc-location: right
+bibliography: references.bib
+---
+
+## Infographics
+
+To be added.
+
+---------------------
+
+## Brief Reports
+
+To be added.
+
+----------------------
+
+## Scientific Publications
+
+To be added.
+
+-----------------------
