@@ -1,6 +1,6 @@
 ---
 title: "The Muslim Diversity Study Team"
-
+author: "Usman Afzali"
 editor: 
   markdown: 
     wrap: 72
@@ -8,44 +8,34 @@ title-block-banner: true
 toc-location: right
 ---
 
-Our team consists of a junior researcher and many senior academics affiliated with public universities of New Zealand (University of Canterbury, Victoria University of Wellington, and The University of Auckland). We come from different backgrounds, we are politically unaffiliated and we do not represent or work for any community, religious, or political organisations. Our main motivation is to conduct good science and share it with the New Zealand public and scientific community. 
+Our team consists of a junior researcher and many senior academics affiliated with public universities of New Zealand (University of Canterbury, Victoria University of Wellington, and The University of Auckland). We come from different backgrounds, we are politically unaffiliated, and we do not represent or work for any community, religious, or political organisations. Our main motivation is to conduct good science and share it with the New Zealand public and scientific community. 
 
-Our current project is the first instance after establishing [The Flourishing Lab](https://usman-afzali.github.io/muslim-flourishing-nz/intro.html#the-flourishing-lab), whose members are introduced as follows.
 
-## The Flourishing Lab Team Members
+## Team Members
 
-### Principal Investigator - Postdoctoral Research Fellow
+### Lead Researcher
 
 ::: {layout="[[70, 30], [100]]"}
-Hello/Salaam/Kia ora. I am Usman Afzali - a postdoctoral research fellow
+I am Usman Afzali - a postdoctoral research fellow
 at University of Canterbury. I completed my PhD in psychology and am
-currently the principal investigator of the three-year Muslim
-Flourishing Project (since the beginning of 2023). Beside research, I also teach psychology at University of Canterbury.
+currently the principal investigator (lead researcher) of the three-year Muslim
+Diversity Study (since the beginning of 2023). Beside research, I teach psychology at University of Canterbury.
 I migrated to New Zealand in 2011 and have been living in Christchurch
-since. In the past few years, I have published several articles with [New Zealand Attitudes and Values Study](https://www.psych.auckland.ac.nz/en/about/new-zealand-attitudes-and-values-study.html) (NZAVS) focusing on Muslim perception and attitudes toward Muslims in New Zealand.
+since. In the past few years, I have published several articles with [New Zealand Attitudes and Values Study](https://osf.io/75snb/) (NZAVS) focusing on Muslim perception and attitudes toward Muslims in New Zealand.
 
 
 ![Usman Afzali, PhD](/pages/team-figs/usman-a.jpeg)
 
-
 #### Why I do this research?
 
-I noted that NZAVS did not have many Muslim participants - which limits
-the inferences we can make about how Muslims perceive themselves in New
-Zealand, what makes Muslims resilient and flourish despite
-atrocities, and what factors contribute to meaning-making in Muslims. This is why the current project was conceived. Our aim is to
-collect longitudinal data from Muslims of New Zealand and publish our
-findings in peer-reviewed Open Science scientific journals[^1]. These
-outputs will provide an objective account of Muslims' social attitudes
-and values in New Zealand, and will allow Muslims to use these findings
-to advocate for their rights. In addition, such findings could be used to inform and influence government policy in relation to Muslim rights, and minority rights in general. Finally, our findings could also be used in other Muslim minority countries to spread awareness.
+As a researcher and committed member of the New Zealand Muslim community, I recognise the importance of including our voices in discussions about New Zealand. This inspired me to develop a booster study to enhance Muslim representation in the New Zealand Attitudes and Values Study, since we are underrepresented at present. This limits the inferences we can make about how Muslims diversity, perception, flourishing, resilience, and meaning-making.
 
 We are recruiting Muslim collaborators and Muslim research assistants from the community - which
 will not only help us work together with Muslim scholars, but also train a new cohort of Muslim researchers who might lead further Muslim-focused research, and
 help bring Muslims of New Zealand closer to science. This is what excites me, and this is why this project is so close to my heart.
 :::
 
-More about Dr Afzali:  [Academic website](https://www.usmanafzali.com), [Instiution Homepage](https://www.canterbury.ac.nz/science/contact-us/people/usman-afzali.html)
+More about me:  [Academic website](https://www.usmanafzali.com), [Instiution Homepage](https://www.canterbury.ac.nz/science/contact-us/people/usman-afzali.html)
 
 [^1]: Open-access articles are a published in a fashion that can be accessed online by any member of the public.
 
