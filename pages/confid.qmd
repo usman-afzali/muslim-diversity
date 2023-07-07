@@ -13,7 +13,6 @@ title-block-banner: true
 toc-location: right
 ---
 
+Here at the NZAVS we take our participants’ confidentiality very seriously. All personal details are encrypted and stored separately from questionnaire data. Only Professor Chris Sibley and trusted research assistants working on the NZAVS in secure conditions have access to participants' contact details. Participants’ contact details are used solely for the purposes of contacting them to continue their participation in the NZAVS each year and to provide them with information and feedback about research findings from the NZAVS.
 
-### Privacy
-
-We take privacy extremely seriously. Since the beginning of NZAVS (14 years ago), we have put practices in place that ensure our participants' identities and personal information are kept strictly confidential. Please read further about our privacy [here](https://usman-afzali.github.io/muslim-flourishing-nz/projectdesc.html#privacy-and-retention).
+**Reference:** <https://osf.io/75snb/wiki/home/>

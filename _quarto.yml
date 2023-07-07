@@ -25,8 +25,6 @@ website:
         file: pages/confid.qmd
       - text: "Reports and Publications"
         file: pages/reports.qmd
-      - text: "Data and code"
-        file: pages/data-and-code.qmd        
       - text: "Ethics Approval"
         file: pages/ethics.qmd  
     right:

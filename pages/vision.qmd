@@ -13,7 +13,7 @@ title-block-banner: true
 toc-location: right
 ---
 
- The NZAVS is committed to the following three principles for the Muslim Diversity Study.
+The NZAVS is committed to the following three principles for the Muslim Diversity Study.
  
 -   **Protection**: the NZAVS is strongly committed to respecting and protecting data gathered from all participants and takes confidentiality seriously. Our commitment to participant privacy and safety is central to the NZAVS Muslim Diversity Study. For a description of our safety protocols click [here](https://usman-afzali.github.io/muslim-flourishing-nz/projectdesc.html#privacy-and-retention).
 
