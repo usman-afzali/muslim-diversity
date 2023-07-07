@@ -1,0 +1,63 @@
+---
+title: "The Muslim Diversity Study"
+listing:
+  id: intro-listings
+  image-align: right
+  contents: intro
+  sort: "title asc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+title-block-banner: true
+toc-location: right
+bibliography: references.bib
+---
+
+Salaam alaikum, kia ora, and greetings!
+
+The Muslim Diversity Study, also known as "A National Longitudinal Study of Muslim Diversity and Flourishing", is aimed to enrich understanding of the attitudes, values, wellbeing, flourishing, and resilience of the Muslim community in New Zealand. It is conducted as part of the New Zealand Attitudes and Values Study [New Zealand Attitudes and Values Study](https://osf.io/75snb/).
+
+### About NZAVS
+
+NZAVS is a large longitudinal national probability annual panel study[^1] of `social attitudes`, `personality`, `ideology` and `health outcomes`. The NZAVS began in 2009 and is curated by [Professor Chris Sibley](). It includes questionnaire responses from more than 70,000 New Zealand residents. The study includes researchers from many New Zealand universities, including the University of Auckland, Victoria University of Wellington, the University of Canterbury, the University of Otago, and Waikato University. Because the survey asks the same people to respond each year, it can track subtle change in attitudes and values over time, and is an important resource for researchers both in New Zealand and around the world. The NZAVS is university-based, not-for-profit and independent of political or corporate funding.
+
+[^1]: In the panel study, data are collected from the sampe participants overtime.
+
+### Why the Muslim Diversity Study?
+
+As a committed member of the New Zealand Muslim community, the lead researcher of the Muslim Diversity Study, [Dr Usman Afzali]() recognised the importance of including Muslim voices in discussions about New Zealand. This inspired him to develop a booster study to enhance Muslim representation in the New Zealand Attitudes and Values Study, since Muslims are underrepresented at present. By capitalizing on NZAVS infrastructure, this project aims clarify the extent of `Muslim diversity, mechanisms of resilience, and lines of similarity with other faiths`.
+
+Much of the NZAVS work to date (see: [@byrne2022; @shanaah2021; @yogeeswaran2019; @bulbulia2022; @sibley2020]) with the Muslim community has focused on conveying information about how Muslims are perceived. However, after talking with 29 Muslims from diverse backgrounds across New Zealand, the Muslim Diversity Study [team]() identified strong signals of Muslim interest in conducting research on Muslims self-perception, diversity, as well as flourishing. Therefore, the current project will amplify the community partnerships and foster Muslims' interest by involving them in longitudinal science.
+
+### Involvement
+
+This project is led by people from the Muslim community for the Muslim community in New Zealand. The project will be completed with the help of Muslim research assistants and research collaborators from across New Zealand.
+
+### Sample Size
+
+This project aims to collect data from `2,000` Muslims each year.
+
+### Goals
+1.    To `recruit` New Zealand Muslims for participating in NZAVS.
+2.    To continue `publishing` high-quality scientific research about Muslims.
+3.    To facilitate scientific `research opportunities` for the Muslim community.
+4.    To to bring the Muslim community `closer to science`.
+5.    To to `facilitate advocacy` for the Muslim community based on findings from this project.
+
+### Sharing Findings
+
+The findings from current project will be shared with the
+Muslim community or a regular basis in the forms of brief reports, infographics, and scientific publications. In addition, the findings will be directly
+shared with the government organisations in an attempt to influence key
+decisions and policy for the good of Muslim community.
+
+### Community Engagement
+
+The project team will:
+
+
+
+### Got questions?
+
+Please contact Usman Afzali [usman.afzali@canterbury.ac.nz](mailto:usman.afzali@canterbury.ac.nz)

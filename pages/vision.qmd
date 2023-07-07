@@ -1,0 +1,22 @@
+---
+title: "Vision Statement for The Muslim Diversity Study"
+listing:
+  id: intro-listings
+  image-align: right
+  contents: intro
+  sort: "title asc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+title-block-banner: true
+toc-location: right
+---
+
+ The NZAVS is committed to the following three principles for the Muslim Diversity Study.
+ 
+-   **Protection**: the NZAVS is strongly committed to respecting and protecting data gathered from all participants and takes confidentiality seriously. Our commitment to participant privacy and safety is central to the NZAVS Muslim Diversity Study. For a description of our safety protocols click [here](https://usman-afzali.github.io/muslim-flourishing-nz/projectdesc.html#privacy-and-retention).
+
+-   **Participation**: the NZAVS is committed to enhancing the research capacity of our communities in Aoteoroa New Zealand. Any NZAVS research focusing specifically on the Muslim community will be reviewed by our Muslim academic advisor Dr Usman Afzali, and/or appropriate nominated reviewers from the Muslim community in New Zealand. We are committed to Muslim community-led research for Muslim-focussed studies to ensure respectful reporting that considers the social, religious, and cultural settings of New Zealand’s Muslims.
+
+-   **Partnership**: the NZAVS actively fosters opportunities for collaborative research with emerging Muslim researchers in New Zealand. We seek to mentor Muslim graduate students interested in accessing NZAVS data for research in their own postgraduate theses or dissertations. We invite students from the Muslim community in New Zealand to contact our Muslim academic advisor, or any member of the NZAVS board or leadership team for guidance in developing a project.

@@ -1,11 +1,25 @@
 ---
-title: "nzavs-diversity"
+title: "The Muslim Diversity Study"
+subtitle: "A National Longitudinal Study of Muslim Diversity and Flourishing"
+image: masjid.jpg
+author:
+  - name: Usman Afzali, PhD
+    orcid: 0000-0001-5119-9388
+    email: usman.afzali@canterbury.ac.nz
+    affiliations:
+      - name: University of Canterbury | Te Whare Wananga o Waitaha
+        address: 20 Kirkwood Ave
+        city: Chrsitchurch
+        state: Canterbury
+        postal-code: 8041
+
+about:
+  template: jolla
+  links:
+    - icon: mailbox2
+      text: Email Research Team
+      href: mailto:usman.afzali@canterbury.ac.nz
+    - icon: twitter
+      text: Twitter Handle
+      href: https://twitter.com/MuslimDiversity
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

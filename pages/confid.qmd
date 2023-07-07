@@ -1,0 +1,19 @@
+---
+title: "Participant Confidentiality"
+listing:
+  id: intro-listings
+  image-align: right
+  contents: intro
+  sort: "title asc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+title-block-banner: true
+toc-location: right
+---
+
+
+### Privacy
+
+We take privacy extremely seriously. Since the beginning of NZAVS (14 years ago), we have put practices in place that ensure our participants' identities and personal information are kept strictly confidential. Please read further about our privacy [here](https://usman-afzali.github.io/muslim-flourishing-nz/projectdesc.html#privacy-and-retention).

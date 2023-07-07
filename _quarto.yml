@@ -16,22 +16,22 @@ website:
     pinned: true
     left:
       - text: "Overview"
-        file: intro.qmd
+        file: pages/overview.qmd
       - text: "Vision Statement"
-        file: vision.qmd
+        file: pages/vision.qmd
       - text: "Team"
-        file: team.qmd
+        file: pages/team.qmd
       - text: "Participant Confidentiality"
-        file: confid.qmd
+        file: pages/confid.qmd
       - text: "Reports and Publications"
-        file: reports.qmd
+        file: pages/reports.qmd
       - text: "Data and code"
-        file: data-and-code.qmd        
+        file: pages/data-and-code.qmd        
       - text: "Ethics Approval"
-        file: ethics.qmd  
+        file: pages/ethics.qmd  
     right:
       - icon: github
-        href: https://github.com/usman-afzali/muslim-diversity-nz
+        href: https://github.com/usman-afzali/muslim-diversity
     page-navigation: true
 
 format:
