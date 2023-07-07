@@ -16,7 +16,7 @@ bibliography: references.bib
 
 Salaam alaikum, kia ora, and greetings!
 
-The Muslim Diversity Study, also known as "A National Longitudinal Study of Muslim Diversity and Flourishing", is aimed to enrich understanding of the attitudes, values, wellbeing, flourishing, and resilience of the Muslim community in New Zealand. It is conducted as part of the New Zealand Attitudes and Values Study [New Zealand Attitudes and Values Study](https://osf.io/75snb/).
+The Muslim Diversity Study, also known as "A National Longitudinal Study of Muslim Diversity and Flourishing", is aimed to enrich understanding of the attitudes, values, wellbeing, flourishing, and resilience of the Muslim community in New Zealand. It is conducted as part of the New Zealand Attitudes and Values Study [New Zealand Attitudes and Values Study](https://osf.io/75snb/wiki/home/).
 
 ### About NZAVS
 
@@ -57,6 +57,10 @@ The project team will:
 -   Deliver inaugural talks in major cities;
 -   Reach out to the Muslim community via mosques, community organizations, cultural associations, respected community elders, and charitable foundations;
 -   And, share findings with the Muslim community via community talks across New Zealand over the coming year.
+
+### Funding
+
+This study is funded by a research grant from a not-for-profit organisation, the Templeton Religion Trust, to help increase the participation of Muslims in the New Zealand Attitudes and Values Study.
 
 ### Got questions?
 
