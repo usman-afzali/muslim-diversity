@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Muslim Diversity Study"
+  
+  page-footer:
+    left: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+    right: |
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/usman-afzali/muslim-flourishing-nz)</span>
+    background: "#d85e33"
+  
+  navbar:
+    pinned: true
+    left:
+      - text: "Overview"
+        file: intro.qmd
+      - text: "Vision Statement"
+        file: vision.qmd
+      - text: "Team"
+        file: team.qmd
+      - text: "Participant Confidentiality"
+        file: confid.qmd
+      - text: "Reports and Publications"
+        file: reports.qmd
+      - text: "Data and code"
+        file: data-and-code.qmd        
+      - text: "Ethics Approval"
+        file: ethics.qmd  
+    right:
+      - icon: github
+        href: https://github.com/usman-afzali/muslim-diversity-nz
+    page-navigation: true
+
+format:
+  html:
+    theme: [united, styles.scss]
+    css: styles.scss
+    highlight-style: tango
+
+editor: source
+
