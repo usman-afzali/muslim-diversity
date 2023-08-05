@@ -13,14 +13,14 @@ title-block-banner: true
 toc-location: right
 ---
 
-Add here -- what ethics means?
-
-
-
 The Muslim Diversity Study is regulated by the [University of Auckland Human Participants Ethics Committee](https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/governance-and-committees/committees/a-z-committees/human-participation-ethics-committee.html).
 
-The current ethics approval statement for the 2021-2027 period is as follows: The New Zealand Attitudes and Values Study was approved by the University of Auckland Human Participants Ethics Committee on 26/05/2021 until 26/05/2024, and renewed on 02/05/2023 until 26/05/2027. Reference Number: UAHPEC22576.
+The current ethics approval statement for the 2021-2027 period is as follows: The New Zealand Attitudes and Values Study was approved by the `University of Auckland Human Participants Ethics Committee` on 26/05/2021 until 26/05/2024, and renewed on 02/05/2023 until 26/05/2027. Reference Number: UAHPEC22576.
 
 For any queries regarding ethical concerns, you may contact the Chair, University of Auckland Human Participants Ethics Committee, Ethics and Integrity Team, University of Auckland, Private Bag 92019, Auckland 1142. Telephone 09 373-7599 ext. 83711. Email: [humanethics\@auckland.ac.nz](mailto:humanethics@auckland.ac.nz).
 
 **Reference:** <https://osf.io/75snb/wiki/home/>
+
+## Why we need ethics approval?
+
+Ethical approval for research is essential to ensure that studies involving human participants are conducted in a morally responsible and respectful manner. It serves to protect the `rights`, `wellbeing`, `dignity`, and `confidentiality` of those involved in the research, as well as the broader community affected by the study. Ethical approval ensures that potential risks are minimized, benefits are maximized, informed consent is obtained, and any potential conflicts of interest or biases are addressed. This oversight helps maintain public trust in the scientific community and upholds the fundamental principles of fairness, respect, and accountability in research endeavors.
