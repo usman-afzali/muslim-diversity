@@ -93,15 +93,15 @@ More about Prof Sibley: [Instiution Homepage](https://profiles.auckland.ac.nz/c-
 ---
 
 ::: {layout="[[70, 30], [100]]"}
-#### Barriester Aarif Rasheed
+#### Lawyer Aarif Rasheed
 
-Barrister Aarif Abdul Rasheed is the head of the Muslim advocacy group,
+Lawyer Aarif Abdul Rasheed is the head of the Muslim advocacy group,
 Just Community. He has been a close and valued NZAVS collaborator since
 2016. Barrister Rasheed advises the team in this project and works with
 the Muslim community leadership and Research Assistants, particularly in
 Auckland and Wellington.
 
-![Barrister Aarif Rasheed](/pages/team-figs/aarif-r.jpeg)
+![Lawyer Aarif Rasheed](/pages/team-figs/aarif-r.jpeg)
 :::
 
 More about Barrister Rasheed: [Homepage](https://www.justcommunity.org.nz/about-us/)

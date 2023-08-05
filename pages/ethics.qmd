@@ -13,6 +13,10 @@ title-block-banner: true
 toc-location: right
 ---
 
+Add here -- what ethics means?
+
+
+
 The Muslim Diversity Study is regulated by the [University of Auckland Human Participants Ethics Committee](https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/governance-and-committees/committees/a-z-committees/human-participation-ethics-committee.html).
 
 The current ethics approval statement for the 2021-2027 period is as follows: The New Zealand Attitudes and Values Study was approved by the University of Auckland Human Participants Ethics Committee on 26/05/2021 until 26/05/2024, and renewed on 02/05/2023 until 26/05/2027. Reference Number: UAHPEC22576.
